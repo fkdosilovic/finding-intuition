@@ -1,9 +1,17 @@
-# Neuron Template
+---
+title: Finding Intuition
+author: Filip Karlo Došilović
+date: 2021-05-01
+---
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Hi,
 
-Get started by reading [[README]]#.
+my name is Filip Karlo Došilović and I'm currently a student, pursuing Master's
+degree in Computer Science at Faculty of Electrical Engineering and Computing,
+University of Zagreb, Croatia.
 
-Other pages on this zettelkasten:
+Most blog posts here answer, or at least try to answer, some question(s) on
+machine learning, describe the process of implementing papers, etc. , with the
+ultimate goal of deeper understanding of the subject.
 
-- [[faq]]#
+I hope you will enjoy reading these pages as much as I enjoy writing them.
